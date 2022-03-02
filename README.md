@@ -1,2 +1,2 @@
-# Chapolin-Colorado
-Skin do Chapolin Colorado
+# Textures GTA SA
+Texturas do GTA San Andreas
