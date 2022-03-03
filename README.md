@@ -1,2 +1,2 @@
 # Textures GTA SA
-Texturas do GTA San Andreas
+Texturas Brasileiras e engraçadas para o GTA San Andreas
